@@ -1,4 +1,4 @@
-# GREED — My Cool Cheat
+# GREED - My Cool Cheat
 
 To build this mod just se
 ```powershell
