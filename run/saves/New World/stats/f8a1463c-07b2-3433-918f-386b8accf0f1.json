@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:sand": 2
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 528,
+      "minecraft:time_since_rest": 4697,
+      "minecraft:walk_one_cm": 1772,
+      "minecraft:total_world_time": 4705,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 16756,
+      "minecraft:crouch_one_cm": 194,
+      "minecraft:sneak_time": 55,
+      "minecraft:play_time": 4697,
+      "minecraft:jump": 46,
+      "minecraft:time_since_death": 4697,
+      "minecraft:drop": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:sand": 1
+    },
+    "minecraft:used": {
+      "minecraft:sand": 7,
+      "minecraft:sandstone": 60
+    }
+  },
+  "DataVersion": 4671
+}

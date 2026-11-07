@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:orange_terracotta": 57,
+      "minecraft:terracotta": 39
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 3769,
+      "minecraft:time_since_rest": 3348,
+      "minecraft:fall_one_cm": 2550,
+      "minecraft:walk_one_cm": 4471,
+      "minecraft:total_world_time": 3427,
+      "minecraft:leave_game": 2,
+      "minecraft:fly_one_cm": 77743,
+      "minecraft:crouch_one_cm": 192,
+      "minecraft:sneak_time": 70,
+      "minecraft:play_time": 3348,
+      "minecraft:jump": 194,
+      "minecraft:time_since_death": 3348
+    }
+  },
+  "DataVersion": 4671
+}

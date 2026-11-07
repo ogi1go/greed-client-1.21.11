@@ -1,0 +1,36 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:orange_terracotta": 1,
+      "minecraft:white_terracotta": 1
+    },
+    "minecraft:used": {
+      "minecraft:netherite_sword": 8,
+      "minecraft:end_crystal": 24,
+      "minecraft:obsidian": 21
+    },
+    "minecraft:killed": {
+      "minecraft:skeleton": 1,
+      "minecraft:iron_golem": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:iron_ingot": 5
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1567,
+      "minecraft:walk_one_cm": 1639,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 2,
+      "minecraft:play_time": 1567,
+      "minecraft:damage_dealt": 1199,
+      "minecraft:jump": 49,
+      "minecraft:time_since_death": 1567,
+      "minecraft:drop": 2,
+      "minecraft:sprint_one_cm": 4933,
+      "minecraft:total_world_time": 1574,
+      "minecraft:fly_one_cm": 5249,
+      "minecraft:walk_on_water_one_cm": 561
+    }
+  },
+  "DataVersion": 4671
+}

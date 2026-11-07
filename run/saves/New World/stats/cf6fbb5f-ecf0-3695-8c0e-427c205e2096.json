@@ -1,0 +1,35 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:sandstone": 39
+    },
+    "minecraft:mined": {
+      "minecraft:sandstone": 39
+    },
+    "minecraft:used": {
+      "minecraft:stone": 9,
+      "minecraft:cooked_beef": 2,
+      "minecraft:elytra": 5,
+      "minecraft:netherite_pickaxe": 39,
+      "minecraft:firework_rocket": 3
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 2886,
+      "minecraft:walk_one_cm": 6506,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 1306,
+      "minecraft:play_time": 6438,
+      "minecraft:jump": 174,
+      "minecraft:time_since_death": 2858,
+      "minecraft:aviate_one_cm": 31340,
+      "minecraft:sprint_one_cm": 23749,
+      "minecraft:fall_one_cm": 18899,
+      "minecraft:total_world_time": 6438,
+      "minecraft:fly_one_cm": 42670,
+      "minecraft:crouch_one_cm": 183,
+      "minecraft:sneak_time": 41,
+      "minecraft:deaths": 2
+    }
+  },
+  "DataVersion": 4671
+}

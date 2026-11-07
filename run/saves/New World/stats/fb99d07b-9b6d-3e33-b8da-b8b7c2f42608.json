@@ -1,0 +1,39 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:ender_pearl": 8,
+      "minecraft:netherite_leggings": 1,
+      "minecraft:sandstone": 1,
+      "minecraft:netherite_chestplate": 1,
+      "minecraft:arrow": 2,
+      "minecraft:netherite_boots": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:arrow": 2,
+      "minecraft:sand": 1,
+      "minecraft:sandstone": 2,
+      "minecraft:netherite_boots": 2,
+      "minecraft:netherite_helmet": 1,
+      "minecraft:ender_pearl": 16,
+      "minecraft:netherite_leggings": 2,
+      "minecraft:netherite_chestplate": 2
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 5486,
+      "minecraft:time_since_rest": 1744,
+      "minecraft:walk_one_cm": 5197,
+      "minecraft:total_world_time": 1744,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 10350,
+      "minecraft:sneak_time": 3,
+      "minecraft:play_time": 1744,
+      "minecraft:jump": 58,
+      "minecraft:time_since_death": 1744,
+      "minecraft:drop": 21
+    },
+    "minecraft:used": {
+      "minecraft:sandstone": 14
+    }
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1165,
+      "minecraft:walk_one_cm": 31,
+      "minecraft:total_world_time": 1165,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 81,
+      "minecraft:play_time": 1165,
+      "minecraft:jump": 2,
+      "minecraft:time_since_death": 1165,
+      "minecraft:aviate_one_cm": 93017
+    },
+    "minecraft:used": {
+      "minecraft:elytra": 2,
+      "minecraft:firework_rocket": 22
+    }
+  },
+  "DataVersion": 4671
+}

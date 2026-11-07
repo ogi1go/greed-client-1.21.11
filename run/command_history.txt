@@ -1,0 +1,50 @@
+/god
+/give obsidian
+/give respawn_anchor
+/give glowstone
+/god
+/ac
+/feed
+/heal
+/give enchanted_golden_apple
+/give end_crystal
+/give @a minecraft:cooked_beef 54
+/give @a stone 64
+/time set day
+/difficulty peaceful
+/effect give Player994 minecraft:hunger 3 5
+/effect give Player994 minecraft:hunger 3 200
+/effect give Player994 minecraft:hunger 200 200
+/effect clear
+/effect give Player994 minecraft:hunger 200 5
+/difficulty hard
+/effect give @a minecraft:hunger 5 5
+/give Player994 minecraft:cooked_beef 25
+/give Player994 minecraft:spider_eye
+/give Player994 minecraft:spider_eye 3
+/effect give Player994 minecraft:instant_health 1 3
+/give Player994 minecraft:stone 64
+/difficulty peaceful
+/reg loginm loginm
+/ac
+/kit claim Crystal
+/give respawn_anchor
+/give respawn_anchor 63
+/give glowstone 64
+/l login
+/l loginm
+/l ilia_lava
+/l loginm
+/reg lognim
+/hub
+/summon minecraft:zombie
+/difficulty easy
+/summon minecraft:zombie
+/warp Scaffold
+/give obsidian 64
+/give end_crystal 64
+/god
+/ac
+/give end_crystal 64
+/reg loginm loginm
+/ban

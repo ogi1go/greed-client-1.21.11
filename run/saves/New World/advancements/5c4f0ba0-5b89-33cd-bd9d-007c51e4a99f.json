@@ -1,0 +1,47 @@
+{
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2026-10-25 19:30:20 +0400",
+      "minecraft:basalt_deltas": "2026-10-25 19:30:44 +0400",
+      "minecraft:warped_forest": "2026-10-25 19:30:47 +0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-10-25 19:30:19 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2026-10-25 19:30:19 +0400"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-10-25 19:30:19 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2026-10-25 19:30:19 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2026-10-25 19:30:19 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2026-10-25 19:30:19 +0400"
+    },
+    "done": true
+  },
+  "DataVersion": 4671
+}

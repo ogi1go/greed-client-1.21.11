@@ -1,0 +1,41 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:stone": 1,
+      "minecraft:lava_bucket": 20,
+      "minecraft:flint_and_steel": 1,
+      "minecraft:netherite_pickaxe": 23,
+      "minecraft:basalt": 7,
+      "minecraft:obsidian": 19
+    },
+    "minecraft:mined": {
+      "minecraft:basalt": 11,
+      "minecraft:netherrack": 12
+    },
+    "minecraft:dropped": {
+      "minecraft:obsidian": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:netherrack": 12,
+      "minecraft:basalt": 11
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 3523,
+      "minecraft:walk_one_cm": 3736,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 300,
+      "minecraft:play_time": 5141,
+      "minecraft:jump": 159,
+      "minecraft:time_since_death": 3495,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 9562,
+      "minecraft:fall_one_cm": 1645,
+      "minecraft:total_world_time": 5141,
+      "minecraft:fly_one_cm": 48826,
+      "minecraft:crouch_one_cm": 135,
+      "minecraft:sneak_time": 45,
+      "minecraft:deaths": 1
+    }
+  },
+  "DataVersion": 4671
+}

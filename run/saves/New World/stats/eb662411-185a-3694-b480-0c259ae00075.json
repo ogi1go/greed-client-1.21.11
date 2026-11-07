@@ -1,0 +1,41 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:stone": 30,
+      "minecraft:cooked_beef": 1,
+      "minecraft:netherite_pickaxe": 9
+    },
+    "minecraft:mined": {
+      "minecraft:tall_dry_grass": 1,
+      "minecraft:stone": 9
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 6867,
+      "minecraft:walk_one_cm": 7002,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 1,
+      "minecraft:walk_under_water_one_cm": 150,
+      "minecraft:damage_taken": 90,
+      "minecraft:damage_dealt": 101,
+      "minecraft:play_time": 6867,
+      "minecraft:jump": 99,
+      "minecraft:time_since_death": 6867,
+      "minecraft:sprint_one_cm": 33181,
+      "minecraft:fall_one_cm": 2175,
+      "minecraft:swim_one_cm": 686,
+      "minecraft:total_world_time": 7013,
+      "minecraft:fly_one_cm": 58061,
+      "minecraft:walk_on_water_one_cm": 5151,
+      "minecraft:crouch_one_cm": 196,
+      "minecraft:sneak_time": 70
+    },
+    "minecraft:picked_up": {
+      "minecraft:cobblestone": 9,
+      "minecraft:sand": 15
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 1
+    }
+  },
+  "DataVersion": 4671
+}

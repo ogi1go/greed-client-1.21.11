@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:zombie_villager": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 423,
+      "minecraft:time_since_rest": 520,
+      "minecraft:walk_one_cm": 126,
+      "minecraft:total_world_time": 520,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 2355,
+      "minecraft:mob_kills": 1,
+      "minecraft:play_time": 520,
+      "minecraft:damage_dealt": 212,
+      "minecraft:jump": 23,
+      "minecraft:time_since_death": 520
+    }
+  },
+  "DataVersion": 4671
+}

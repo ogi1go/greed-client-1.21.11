@@ -1,0 +1,54 @@
+plugins {
+    id 'net.fabricmc.fabric-loom-remap' version "${loom_version}"
+}
+
+repositories {
+    mavenCentral()
+    maven { url = 'https://maven.maxhenkel.de/repository/public' }
+    maven { url = 'https://api.modrinth.com/maven' }
+}
+
+loom {
+    runs {
+        client {
+            runDir = findProperty('clientRunDir') ?: 'run'
+        }
+    }
+}
+
+dependencies {
+    minecraft "com.mojang:minecraft:${minecraft_version}"
+    mappings "net.fabricmc:yarn:${yarn_mappings}:v2"
+    modImplementation "net.fabricmc:fabric-loader:${loader_version}"
+    modImplementation "net.fabricmc.fabric-api:fabric-api:${fabric_api_version}"
+    include implementation('org.luaj:luaj-jse:3.0.1')
+    compileOnly fileTree(dir: 'libs', include: ['*.jar'])
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+    options.release = 21
+    options.compilerArgs += ['-proc:none', '-Xmaxerrs', '2000']
+    if (project.hasProperty('recoveryJavac')) {
+        options.fork = true
+        options.forkOptions.executable = project.property('recoveryJavac')
+    }
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_21
+    targetCompatibility = JavaVersion.VERSION_21
+    withSourcesJar()
+}
+
+// One executable check for the reconstructed Java logic, without a test framework.
+tasks.register('recoveryChecks', JavaExec) {
+    dependsOn tasks.named('testClasses')
+    classpath = sourceSets.test.runtimeClasspath
+    mainClass = 'greed.RecoveryChecks'
+    enableAssertions = true
+}
+tasks.named('check') { dependsOn tasks.named('recoveryChecks') }
+
+// RecoveryChecks is an assert-based Java main; no JUnit/TestNG dependency is needed.
+tasks.named('test') { failOnNoDiscoveredTests = false }

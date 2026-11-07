@@ -1,0 +1,25 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:firework_rocket": 18
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1039,
+      "minecraft:walk_one_cm": 2063,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 150,
+      "minecraft:damage_taken": 90,
+      "minecraft:play_time": 1039,
+      "minecraft:jump": 16,
+      "minecraft:time_since_death": 1039,
+      "minecraft:aviate_one_cm": 65141,
+      "minecraft:sprint_one_cm": 1394,
+      "minecraft:fall_one_cm": 2732,
+      "minecraft:swim_one_cm": 609,
+      "minecraft:total_world_time": 1039,
+      "minecraft:fly_one_cm": 4160,
+      "minecraft:walk_on_water_one_cm": 777
+    }
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 1941,
+      "minecraft:time_since_rest": 702,
+      "minecraft:fall_one_cm": 1600,
+      "minecraft:walk_one_cm": 239,
+      "minecraft:total_world_time": 702,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 3788,
+      "minecraft:damage_taken": 90,
+      "minecraft:play_time": 702,
+      "minecraft:jump": 24,
+      "minecraft:time_since_death": 702
+    },
+    "minecraft:used": {
+      "minecraft:stone": 20,
+      "minecraft:cooked_beef": 1
+    }
+  },
+  "DataVersion": 4671
+}
